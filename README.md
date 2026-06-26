@@ -4,6 +4,8 @@ Bienvenue dans TimeTravel Agency, une webapp immersive et luxueuse dédiée à u
 
 Cette expérience interactive a été développée pour proposer une visite élégante et narrative, avec une interface moderne et des fonctionnalités intelligentes au service de l’immersion.
 
+Membres du projet : Enzo Nyssen, Adriana Pullig, Mickael Smyczyk, Louis-Alexandre Chavalle 
+
 ## 🛠️ Stack Technique
 
 - Framework : React (initialisé via Vite)
